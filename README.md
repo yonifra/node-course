@@ -1,4 +1,4 @@
-# Project Name
+# Node.JS Course Examples - Wix Enter 2024
 
 This project contains the basic code needed to run the examples for the Node.JS course at ENTER 2024.
 
