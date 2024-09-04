@@ -1,5 +1,8 @@
-// STARTING NODE 18 - FETCH IS PART OF NODE AS AN EXPERIMENTAL FLAG
-// FETCH API EXAMPLE
+// CommonJS Syntax Example
+const axios = require('axios')
+module.exports = {
+  fetchJoke,
+}
 
 async function fetchJoke() {
   fetch('https://api.chucknorris.io/jokes/random')

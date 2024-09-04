@@ -1,14 +1,15 @@
 {
-  "name": "enter-2024",
+  "name": "enter2024",
   "version": "1.0.0",
   "description": "",
-  "main": "runme.js",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.7.5"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "axios": "^1.7.5"
-  }
+  "license": "ISC"
 }
